@@ -6,7 +6,9 @@ The official set up documentation can be visited in their official
 
 ______
 
-### Installations (see installations.md)
+### Installation
+
+(see [installation.md](installation.md))
  
 - Install python 3.7+ or check that you are using this version or up of python. 
 

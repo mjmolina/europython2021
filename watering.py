@@ -11,7 +11,7 @@ relay = digitalio.DigitalInOut(board.A0)
 relay.switch_to_output()
 
 # The moisture sensors is on the A1 port
-touch = touchio.TouchIn(board.A2)
+sensor = touchio.TouchIn(board.A2)
 # The relay was configure to use the Always Close gate,
 # so we need to set it as true for the relay to be inactive.
 relay.value = True
@@ -30,7 +30,7 @@ dry_value = 500
 while True:
     
     # Read value
-    sensor_value = touch.raw_value
+    sensor_value = sensor.raw_value
     print("Sensor value:", sensor_value)
     time.sleep(wait_time)
 
