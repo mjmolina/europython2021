@@ -33,7 +33,7 @@ monitoring system.
 `[Home automation examples]` Using the code on real devices.
 
 - Low-cost robot cleaner.
-- Watering and monitoring plant system.
+- Watering plant system.
 
 
 **Note:** This emulator allows to program 3 different microcontrollers. 
