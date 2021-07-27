@@ -1,7 +1,7 @@
 ## DIY Home automation with Microcontrollers and CircuitPython 🐍🤖
 
 
-### Workshop description:
+### Talk description:
 
 When learning and using Python for automation, we usually write applications
 that can help us on computer related tasks, like downloading things,
