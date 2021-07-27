@@ -1,4 +1,4 @@
-## DIY Home automation with Microcontrollers and CircuitPython 🐍🤖
+## Europython 2021: DIY Home automation with Microcontrollers and CircuitPython :seedling: 🤖 🐍
 
 
 ### Talk description:
